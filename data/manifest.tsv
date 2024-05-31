@@ -1,0 +1,11 @@
+# single-end PHRED 33 fastq manifest file for forward reads
+sample-id	absolute-filepath
+S14-V5-P-B17-calc	$PWD/SRR957750.fastq
+S18S19-V5-L-B17-root	$PWD/SRR957756.fastq
+S15-V5-R-B78-calc	$PWD/SRR957753.fastq
+S22S23-V5-N-B78-root	$PWD/SRR957760.fastq
+S8-V5-O-G12-calc	$PWD/SRR986773.fastq
+S16S17-V5-K1-G12-root	$PWD/SRR986778.fastq
+S16S17-V5-K2-G12-root	$PWD/SRR986779.fastq
+S10-V5-Q-B61-calc	$PWD/SRR986774.fastq
+S20S21-V5-M-B61-root	$PWD/SRR986782.fastq
